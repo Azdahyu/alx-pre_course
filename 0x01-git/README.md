@@ -1,1 +1,1 @@
-My editedrepo
+My edited repository 
